@@ -1,4 +1,5 @@
 source 'https://rubygems.org'
 gem 'pry'
 gem 'pry-nav'
-gem 'minitest'
+gem 'rspec', '2.99.0'
+gem 'rspec-autotest'
